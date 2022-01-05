@@ -1,6 +1,6 @@
 # MERN-ZONE Application
 
-Live Site[MERN_ZONE](https://mern-zone.web.app/) 
+Live Site: https://mern-zone.web.app
 
 ## Project features
 *  This is a Blog sharing Application.
